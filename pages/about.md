@@ -29,3 +29,7 @@ The Church of wifi defines shenanigans differently.
 
 * `Doing things like dropping stuffed animals with parachutes because we can`
 
+### Test
+
+kramdown
+: A Markdown-superset converter
