@@ -12,15 +12,15 @@ intro_paragraph: |
 ---
 ### Shenanigans (def)
 
-she·​nan·​i·​gan | \ shə-ˈna-ni-gən:
+`she·​nan·​i·​gan | \ shə-ˈna-ni-gən:`
 
- * a devious trick used especially for an underhand purpose
+1. a devious trick used especially for an underhand purpose
 
- * tricky or questionable practices or conduct —usually used in plural
+2. tricky or questionable practices or conduct —usually used in plural
 
- * high-spirited or mischievous activity —usually used in plural
+3. high-spirited or mischievous activity —usually used in plural
 
 ### Church of Wifi Definition of Shenanigans
 
- * Stupidity or silliness caused by not enough alcohol
+1. Stupidity or silliness caused by not enough alcohol
 
