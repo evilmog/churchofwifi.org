@@ -7,10 +7,7 @@ meta_description: |
 permalink: /about
 section: about
 intro_paragraph: |
-  Welcome to the Church of Wifi, this site has minimal content at the moment because EvilMog is lazy.
-  He will get to adding more things as he has time.
----
-### Shenanigans (def)
+Shenanigans (def)
 
 `she·​nan·​i·​gan | \ shə-ˈna-ni-gən:`
 
@@ -20,7 +17,9 @@ intro_paragraph: |
 
 3. high-spirited or mischievous activity —usually used in plural
 
-### Church of Wifi Definition of Shenanigans
+Church of Wifi Definition of Shenanigans
 
 1. Stupidity or silliness caused by not enough alcohol
+---
+
 
