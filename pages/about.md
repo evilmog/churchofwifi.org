@@ -154,3 +154,111 @@ property.
 
 * Do not apply stickers to walls, they are a royal pain to clean up.
 
+#### Emergency Fund
+As a responsible adult you must maintain an emergency fund to pay for things you break.
+This is a part of responsible planning.
+
+* Use judgement to determine risk, plan accordingly
+
+* If anything goes horribly wrong the consequences could include personal, legal, and financial.
+
+* Have plans for funs to immediately and voluntarily repair damage.
+
+* Plan on a lawyer if needed, as well as bail funds
+
+* If you annoy somebody be prepared to buy a round or four as compensation
+
+#### Do Good
+
+Shenanigans should be fun for all, they are a tool for laughter and entertainment, when they stop being
+fun it is no longer a shenanigan, they are just you being a jerk.
+
+* Shenanigans should be fun for all. Bonus points if they have positive lasting benefits.
+
+* Equipment or resources should be reused or donated to charities if possible.
+
+* Shenanigans should make somebody laugh or smile for your efforts
+
+* The shenanigans should be seen in a positive light by the general public.
+
+* Allow people to opt-out
+
+#### Consent
+
+This is an additional commandment to the original 9 but its important enough to repeat.
+
+* You must give people the ability to opt-out or otherwise provide informed consent in some way.
+
+* Your shenanigan may make people uncomfortable or trigger them. You must make every effort to
+make sure people can get out of the situation. Be prepaed to deal with consequences.
+
+* Drunk people cannot consent
+
+* People under the age of majority cannot consent
+
+* Power imbalances between parties also prevent informed consent. This includes boss/employee, mentor/mentee,
+or other power imbalance relationships.
+
+#### Know your venue
+
+What was acceptable at DEFCON may not work at THOTCON or Derbycon (and vice versa), know your event/conference, 
+and tailor your shenanigan accordingly.
+
+* If doing adult themed shenanigans make sure kids at the venue are in bed
+
+* If doing anything interactive that may be offensive don't make it seem like its mandatory.
+
+* Again do not permanently alter the venue, this cannot be stressed enough.
+
+* Honor airspace restrictions unless you have all relevant authorizations.
+
+#### Petty Tresspass
+
+So when performing shenanigans you may need to perform petty tresspass. Ensure you know your venue
+and cooordinate with security staff. Some areas the venue or security staff will look the other way
+or provide an escort. Some areas will get you ejected or banned outright.
+
+* Do not tresspass with a Blood Alcohol Content (BAC) over .08, some parts of the venue may be
+dangerous.
+
+* Do not damage property
+
+* Don't access hazard areas or bypass safety devices, do not access elevator shafts, electrical hazard
+zones, confined spaces, or other areas hazardous to life and limb, even if you are qualified.
+
+* Have bail money
+
+#### Parachute Operations
+
+Yes the church of wifi has a parachute division, we parachute plastic army men and stuffed animals. I don't
+know why its a thing but it is.
+
+* Make sure you run calculations for the following: force of object impact with parachute, descent rate with parachute,
+force of object impact with parachute or harness failure, descent rate with parachute or harness failure, parachute deployment
+time/distance.
+
+* Have multiple spotters and a videographer
+
+* Ge venue permission, they will eject you if you don't
+
+* Use rocketry rated rip stop nylon or other purpose designed parachutes
+
+#### Security Staff
+Security staff love a well planned shenanigan and will even assist you, however you shenanigan must be funny or otherwise cool enough.
+They may help you in the following ways:
+
+* Escort you through restricted areas
+
+* Distract venue security guards
+
+* Hide you from conference organizers
+
+* Give you ideas during the planning phase
+
+* Get you access to restricted areas
+
+* Act as a spotter
+
+* Help you get venue permission
+
+Security staff love shenanigans, make sure its awesome and ask nicely, they may just help you out.
