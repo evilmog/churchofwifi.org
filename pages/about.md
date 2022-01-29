@@ -2,8 +2,7 @@
 layout: page
 title: About
 meta_description: |
-  This sets the meta description in the head of the page. You can watch the 
-  output in the browser or in the generated file _site/about.html.
+  Welcome to the church of wifi rules and regulations, this will help you plan proper shenanigans.
 permalink: /about
 section: about
 intro_paragraph: |
@@ -262,3 +261,6 @@ They may help you in the following ways:
 * Help you get venue permission
 
 Security staff love shenanigans, make sure its awesome and ask nicely, they may just help you out.
+
+### How to conduct shenanigans safely
+[Talk on how to conduct shenanigand safely](http://www.irongeek.com/i.php?page=videos/derbycon7/s12-how-to-safely-conduct-shenanigans-evilmog-renderman)
