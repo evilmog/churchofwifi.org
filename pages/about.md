@@ -2,7 +2,8 @@
 layout: page
 title: About
 meta_description: |
-  Welcome to the church of wifi rules and regulations, this will help you plan proper shenanigans.
+  This is the church of wifi website, rules and regulations. The
+  many commandments can also be found here.
 permalink: /about
 section: about
 intro_paragraph: |
