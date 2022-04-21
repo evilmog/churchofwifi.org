@@ -6,9 +6,14 @@ meta_description: |
   many commandments can also be found here.
 permalink: /about
 section: about
-intro_paragraph: |
-  Welcome to the Church of Wifi, this site has minimal content at the moment because EvilMog is lazy.
+intro_paragraph: >-
+  Welcome to the Church of Wifi, this site has minimal content at the moment
+  because EvilMog is lazy.
+
   He will get to adding more things as he has time.
+
+
+  Don't forget about Renderma and CircuitSwans wedding August 6th 2022. <https://sites.google.com/view/circuitswan-renderman/home>
 ---
 ### Shenanigans (def)
 
