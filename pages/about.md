@@ -13,7 +13,7 @@ intro_paragraph: >-
   He will get to adding more things as he has time.
 
 
-  Don't forget about Renderma and CircuitSwans wedding August 6th 2022. <https://sites.google.com/view/circuitswan-renderman/home>
+  Don't forget about Renderman and CircuitSwans wedding August 6th 2022. <https://sites.google.com/view/circuitswan-renderman/home>
 ---
 ### Shenanigans (def)
 
